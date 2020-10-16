@@ -5,7 +5,7 @@
   - Confidentiality – Assuring only the intended recipients in communication have access to the message.
     - Solution: Encryption/Decryption
   - Integrity – Assuring that the message cannot be modified in transit without the other party being made aware.
-    - Solution: Hashing Algorithms
+    - Solution: Hashing Algorithms (MD5/SHA1/SHA2)
   - Authentication – Assuring the other party is indeed who they claim to be.
     - Solution: PKI
   - Anti-Replay – Assuring the message cannot be maliciously re-transmitted.
