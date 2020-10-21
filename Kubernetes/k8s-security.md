@@ -41,7 +41,7 @@ spec:
 #2 Request Certificate Signing Request
    openssl req -new -key admin.key -subj "/CN=Kube-admin/O=system:masters" -out admin.csr
 #3 Sign with root ca Certificate 
-   openssl x509 -req -in admin.csr -CA ca.crt -CAkey ca.key -out admin.crt
+   openssl x509 -req -in admin.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out admin.crt
 + KUBE-SHCEDULAR
 
 + KUBE-CONTROLLER
