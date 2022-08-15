@@ -14,3 +14,6 @@ Cloud Trail - doesnt see network traffic, it is an AWS API auditing service
 
 - DX Connections are layer 2 circuits. 
 - DX virtual Interfaces provide layer 3 connectivity
+  - AWS Public VIF's - Connects all AWS Public services with using Internet.
+  - AWS Private VIF's - Used to connect to AWS private networks
+  - AWS Transit VIF's - Used to connect DX to Transit Gateway
