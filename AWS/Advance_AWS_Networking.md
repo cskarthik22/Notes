@@ -7,3 +7,4 @@
 - AWS Client to Site VPN ( Uses OpenVPN Tunnel ) : By Default, client route table is overwritten by openvpn route table. Both local route table and OpenVPN route tables can be maintained by AWS Client VPN split tunneling
 
 
+Cloud Trail - doesnt see network traffic, it is an AWS API auditing service
