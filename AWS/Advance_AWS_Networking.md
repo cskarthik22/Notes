@@ -11,3 +11,6 @@
 Drawbacks: AWS VPN Connection is initiated only from on-premise to AWS
 
 Cloud Trail - doesnt see network traffic, it is an AWS API auditing service
+
+- DX Connections are layer 2 circuits. 
+- DX virtual Interfaces provide layer 3 connectivity
