@@ -17,3 +17,5 @@ Cloud Trail - doesnt see network traffic, it is an AWS API auditing service
   - AWS Public VIF's - Connects all AWS Public services with using Internet.
   - AWS Private VIF's - Used to connect to AWS private networks
   - AWS Transit VIF's - Used to connect DX to Transit Gateway
+
+- Layer 2 networks can be logically divided into virtual LANS.
