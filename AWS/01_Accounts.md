@@ -15,4 +15,12 @@ AWS Accounts
     c) Authorize ( Allows/Denies access to AWS resources when IAM policies are attached to users/groups/roles )
 7. IAM Policies are just the set of rules.
 
+
+**********************************************************************************
+
+1. NO COST
+2. Global Service & Reslient
+3. No Direct control on external accounts or users
+4. Supports Indentity Federation & MFA
+
 ```
