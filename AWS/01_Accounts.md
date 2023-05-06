@@ -23,4 +23,13 @@ AWS Accounts
 3. No Direct control on external accounts or users
 4. Supports Indentity Federation & MFA
 
+            AWS CONSOLE     |     AWS CLI
+==================================================================================
+Login       IAM USERNAME    |     ACCESS_KEY_ID
+                &           |           &
+            IAM Password    |     SECRET_ACCESS_KEY
+            
+5. Can created maximum of 0,1,2 Access Keys per identity ( IAM USers )
+6. ***NOTE**** IAM Roles doesnt have access keys
+
 ```
