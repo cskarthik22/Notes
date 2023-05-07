@@ -6,9 +6,9 @@ AWS Accounts
 3. Root User doesn't have any restrictions, it has full control of AWS account & the resources created under it.
 4. IAM service acts like a database (one per each AWS account )
 5. IAM Service / database contains a collection of
-    a) IAM Users
-    b) IAM Groups
-    c) IAM Roles
+    a) IAM Users ( Maximum of 5000 Users hard limit per AWS Account)
+    b) IAM Groups ( User can be part of atmost 10 groups - hard limits )
+    c) IAM Roles 
 6. IAM Service does
     a) Manages Identities ( IAM Users, Groups, Roles )
     b) Authenticates 
@@ -33,3 +33,6 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
 6. ***NOTE**** IAM Roles doesnt have access keys
 
 ```
+
+** Single Princicple  - Use IAM Users
+** Multiple or Un-known number of Identities  - Use IAM roles.
