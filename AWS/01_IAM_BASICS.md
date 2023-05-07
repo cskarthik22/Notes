@@ -32,18 +32,17 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
 5. Can created maximum of 0,1,2 Access Keys per identity ( IAM USers )
 6. ***NOTE**** IAM Roles doesnt have access keys
 
-
-|                |Authentication                          |Authorization                         |Comments |
-|----------------|-------------------------------|-----------------------------|
-|IAM USERS       |USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
-|IAM Roles       | Via STS Service - Assume Role & Trust Policies | Through Permission Policies | Best choice when multiple indenties wants to access AWS resources |
-
 ```
 
 * When Single Principle / Identity wants to connect to AWS Account -  IAM User / Access Keys can be used
 * When Multiple or Un-known number of Principles / Identities (e.g: 5000 users hardlimit ) wants to connect to AWS Account  -  IAM roles are best choice.
 * Also when an external identity / identities wants to access an AWS account, then IAM roles are best choice. 
     Example: Microsoft AD account or Web Identities like facebook, twitter..etc.
+    
+|                |Authentication                          |Authorization                         |Comments |
+|----------------|-------------------------------|-----------------------------|
+|IAM USERS       |USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
+|IAM Roles       | Via STS Service - Assume Role & Trust Policies | Through Permission Policies | Best choice when multiple indenties wants to access AWS resources |
     
 ## IAM USERS & GROUPS - ATTACHED TO - INLINE OR MANAGED POLICIES
 ## AWS RESOUECES - ATTACHED TO - RESOURCE POLICIES.
