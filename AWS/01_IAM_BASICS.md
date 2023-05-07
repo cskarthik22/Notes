@@ -41,7 +41,7 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
     
 |                |Authentication                          |Authorization                         |Comments |
 |----------------|-------------------------------|-----------------------------|-------------------------------------|
-|IAM USERS       |USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
+|IAM USERS       | * USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
 |IAM Roles       | Via STS Service - Assume Role & Trust Policies | Through Permission Policies | Best choice when multiple indenties wants to access AWS resources |
     
 ## IAM USERS & GROUPS - ATTACHED TO - INLINE OR MANAGED POLICIES
