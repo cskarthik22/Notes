@@ -40,6 +40,6 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
 * Also when an external identity / identities wants to access an AWS account, then IAM roles are best choice. 
     Example: Microsoft AD account or Web Identities like facebook, twitter..etc.
     
-IAM USERS & GROUPS - ATTACHED TO - INLINE OR MANAGED POLICIES
-AWS RESOUECES - ATTACHED TO - RESOURCE POLICIES.
-IAM ROLES - ATTACHED TO - TRUST POLICIES & PERMISSION POLILIES
+## IAM USERS & GROUPS - ATTACHED TO - INLINE OR MANAGED POLICIES
+## AWS RESOUECES - ATTACHED TO - RESOURCE POLICIES.
+## IAM ROLES - ATTACHED TO - TRUST POLICIES & PERMISSION POLILIES
