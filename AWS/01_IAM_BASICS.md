@@ -33,6 +33,11 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
 6. ***NOTE**** IAM Roles doesnt have access keys
 
 
+|                |Authentication                          |Authorization                         |Comments |
+|----------------|-------------------------------|-----------------------------|
+|IAM USERS       |USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
+|IAM Roles       | Via STS Service - Assume Role & Trust Policies | Through Permission Policies | Best choice when multiple indenties wants to access AWS resources |
+
 ```
 
 * When Single Principle / Identity wants to connect to AWS Account -  IAM User / Access Keys can be used
