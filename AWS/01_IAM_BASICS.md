@@ -34,5 +34,5 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
 
 ```
 
-** Single Princicple  - Use IAM Users
-** Multiple or Un-known number of Identities  - Use IAM roles.
+* Single Princicple  - Use IAM Users
+* Multiple or Un-known number of Identities  - Use IAM roles.
