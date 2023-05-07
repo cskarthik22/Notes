@@ -40,7 +40,7 @@ Login       IAM USERNAME    |     ACCESS_KEY_ID
     Example: Microsoft AD account or Web Identities like facebook, twitter..etc.
     
 |                |Authentication                          |Authorization                         |Comments |
-|----------------|-------------------------------|-----------------------------|
+|----------------|-------------------------------|-----------------------------|-------------------------------------|
 |IAM USERS       |USERNAME & PWD / ACCESS KEYS   | IAM Policy documents / Resource Policies | Best choice when single priciple/identity wants to access AWS Resources |
 |IAM Roles       | Via STS Service - Assume Role & Trust Policies | Through Permission Policies | Best choice when multiple indenties wants to access AWS resources |
     
