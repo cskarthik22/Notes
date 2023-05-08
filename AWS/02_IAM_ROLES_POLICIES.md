@@ -15,3 +15,5 @@ ___
 ## Service Control Policies (SCP)
 
 * SCPs are account permission boundries tied to either Root ORG account or Organization Unit or Individual AWS account.
+* They don't grant permissions
+* They just limit what an account can do..
