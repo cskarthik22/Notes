@@ -9,3 +9,9 @@
 * EC2 Instance Roles
 
 ___
+## AWS Organization
+
+---
+## Service Control Policies (SCP)
+
+* SCPs are account permission boundries tied to either Root ORG account or Organization Unit or Individual AWS account.
