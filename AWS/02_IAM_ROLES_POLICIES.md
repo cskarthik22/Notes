@@ -4,8 +4,9 @@
 * IAM Policies 
   1. Trust policy
   2. Permission Policy
-  3. Resource Policy
-  4. Boundary Policy
+  3. Identity Policy - Controls what that identity can access.
+  4. Resource Policy - Controls who can access that resource
+  5. Boundary Policy
 * Service Linked Roles
 * EC2 Instance Roles
 
