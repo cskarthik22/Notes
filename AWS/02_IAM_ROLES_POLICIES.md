@@ -5,8 +5,9 @@
   1. Trust policy
   2. Permission Policy
   3. Identity Policy - Controls what that identity can access.
-  4. Resource Policy - Controls who can access that resource
+  4. Resource Policy - Controls who can access that resource - it has additional attribute in JSON - called Principle.
   5. Boundary Policy
+  6. Bucket Policies - Same as resource policies
 * Service Linked Roles
 * EC2 Instance Roles
 
