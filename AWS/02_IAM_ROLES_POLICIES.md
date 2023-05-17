@@ -21,10 +21,10 @@
 {
   "Statement" : [
     {
-      "EFFECT" : "effect",
-      "PRINCIPLE" : "principle",
+      "EFFECT" : "Allow / Deny",
+      "PRINCIPLE" : "Users / Groups / Roles / Resources like buckets",
       "ACTION" : "action",
-      "RESOURCE" : "arn",
+      "RESOURCE" : "ARN ( Amazon Resource Name )",
       "CONDITION" : {
         "condition" : {
           "key" : "value"
