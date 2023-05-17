@@ -49,6 +49,9 @@
 <! Multiple Action -->
 "Action" : ["sqs:SendMessage" , "sqs:ReceiveMessage"]
 
+<! Wildcard  -->
+"Action" : "iam:*AccessKey*"
+
 ```
 ___
 ## AWS Organization
