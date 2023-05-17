@@ -1,13 +1,19 @@
 ## More Advance Concepts
 
-* IAM Roles
-* IAM Policies 
-  1. Trust policy
-  2. Permission Policy
-  3. Identity Policy - Controls what that identity can access.
-  4. Resource Policy - Controls who can access that resource - it has additional attribute in JSON - called Principle.
-  5. Boundary Policy
-  6. Bucket Policies - Same as resource policies
+* IAM Policies lives with
+  1. IAM Users
+  2. IAM Groups
+  3. IAM Roles - tied with
+      1. Trust Policy
+      2. Permission Policy
+   Note: Identity Policy - Controls what that identity can access.
+* Resource Policy - Controls who can access that resource - it has additional attribute in JSON - called Principle.
+  Example: Some services allow storing policy with resources
+    1. S3 ( Bucket policy )
+    2. Amazon Glacier ( Vault policy )
+    3. Amazon SNS ( Topic policy )
+    4. Amazon SQS ( Queue policy )
+* Boundary Policy
 * Service Linked Roles
 * EC2 Instance Roles
 
