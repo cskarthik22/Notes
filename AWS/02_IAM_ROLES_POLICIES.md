@@ -15,7 +15,8 @@
 * Policies provide authorization
   1. Specification - Defining policies
   2. Enforcement - Evaluating policies
----
+
+
 ```
 {
   "Statement" : [
