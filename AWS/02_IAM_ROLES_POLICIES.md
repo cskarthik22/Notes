@@ -6,7 +6,7 @@
   3. IAM Roles - tied with
       1. Trust Policy
       2. Permission Policy
-   Note: Identity Policy - Controls what that identity can access.
+  Note: Identity Policy - Controls what that identity can access.
 * Resource Policy - Controls who can access that resource - it has additional attribute in JSON - called Principle.
   Example: Some services allow storing policy with resources
     1. S3 ( Bucket policy )
