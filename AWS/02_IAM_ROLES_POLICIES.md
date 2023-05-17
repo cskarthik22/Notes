@@ -16,7 +16,7 @@
   1. Specification - Defining policies
   2. Enforcement - Evaluating policies
 
-'''
+```
 {
   "Statement" : [
     {
@@ -32,7 +32,7 @@
     }]
 }
 
-'''
+```
 ___
 ## AWS Organization
 
