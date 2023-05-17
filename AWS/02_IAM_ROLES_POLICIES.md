@@ -36,8 +36,18 @@
 
 ```
 ========ACTIONS========
+
 <! EC2 Action -->
 "Action" : "ec2:StartInstances"
+
+<! IAM Action -->
+"Action" : "iam:ChangePassword"
+
+<! S3 Action -->
+"Action" : "s3:GetObject"
+
+<! Multiple Action -->
+"Action" : ["sqs:SendMessage" , "sqs:ReceiveMessage"]
 
 ```
 ___
