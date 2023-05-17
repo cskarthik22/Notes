@@ -23,7 +23,7 @@
     {
       "EFFECT" : "Allow / Deny",
       "PRINCIPLE" : "Users / Groups / Roles / Resources like buckets",
-      "ACTION" : "action",
+      "ACTION" : "what principle can do",
       "RESOURCE" : "ARN ( Amazon Resource Name )",
       "CONDITION" : {
         "condition" : {
@@ -32,6 +32,13 @@
       }
     }]
 }
+```
+
+```
+========ACTIONS========
+<! EC2 Action -->
+"Action" : "ec2:StartInstances"
+
 ```
 ___
 ## AWS Organization
