@@ -23,7 +23,7 @@
     {
       "EFFECT" : "Allow / Deny",
       "PRINCIPLE" : "Users / Groups / Roles / Resources like buckets",
-      "ACTION" : "what principle can do",
+      "ACTION" : "what principle can do (create/delete/list/update)",
       "RESOURCE" : "ARN ( Amazon Resource Name )",
       "CONDITION" : {
         "condition" : {
