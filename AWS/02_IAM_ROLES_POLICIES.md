@@ -12,7 +12,7 @@
 * EC2 Instance Roles
 
 ---
-* Policies 
+* Policies provide authorization
   1. Specification - Defining policies
   2. Enforcement - Evaluating policies
 ___
