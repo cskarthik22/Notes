@@ -1,3 +1,11 @@
+Build & Deploy
+---
+
+- Code Commit
+- Code Build : 
+- Code Deploy : Handles Configs + Life cycle hook events
+- Code Pipeline
+
 Elastic BeanStalk (PaaS)
 ---
 
