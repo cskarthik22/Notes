@@ -1,1 +1,2 @@
-1. AWS Fargate - Serverless Compute Engine provided by AWS - used to run containers without managing underlying infrastructure 
+
+1. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
