@@ -21,7 +21,7 @@
      - **AWS Client VPN**
 11. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
 
-
+![image](https://github.com/cskarthik22/Notes/assets/38231831/5112b944-2c56-4f8b-96eb-d3eeb449f4dc)
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/e13f5b3b-d4aa-4cfe-bf57-2840c242c8cb)
 
