@@ -8,6 +8,9 @@
      - Modifying the route tables is necessary for a VPC peering connection to enable bidirectional traffic flow between the connected VPCs
 6. **TransitGateway(TGW)**: Allows you to connect multiple networks, including VPCs and on-premises networks, and it can scale to handle a higher number of overall networks.
 7. **DirectConnect(DX)**: Direct Connect is a region scoped solution, allows on-premises network connectivity to AWS within a specific region.
+   - **Public Virtual Interface**
+   - **Private Virtual Interface**
+   - **Transit Virtual Interface**
 8. **VirtualPrivateGateway(VGW)**: Virtual Private Gateway is a global solution that can be used to connect on-premises networks to any AWS region.
 9. **AWS PrivateLink**: AWS PrivateLink establishes secure connectivity between VPCs and AWS services, preventing exposure of traffic to the internet.
    - PrivateLink essentially provides access to the resources hosted in other VPC or other AWS accounts within the same subnet as the requester. This eliminates the need to use any NAT gateway, IGW, public IP address, or VPN. Therefore, it provides better control over your services, which are reachable via a client VPC
@@ -16,7 +19,7 @@
 10. **AWS VPN**: AWS VPN is a networking service to establish a secure connection between AWS, on-premises networks, and remote client devices.
      - **AWS Site-Site VPN**
      - **AWS Client VPN**
-10. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
+11. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/e13f5b3b-d4aa-4cfe-bf57-2840c242c8cb)
 
