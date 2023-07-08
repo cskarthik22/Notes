@@ -13,6 +13,9 @@
    - PrivateLink essentially provides access to the resources hosted in other VPC or other AWS accounts within the same subnet as the requester. This eliminates the need to use any NAT gateway, IGW, public IP address, or VPN. Therefore, it provides better control over your services, which are reachable via a client VPC
    - AWS PrivateLink enables private connectivity between the Service Provider and Service Consumer using AWS infrastructure to exchange data without going over the public internet. To achieve this, the Service Provider creates an Endpoint Service in a private subnet.
    - You can access AWS services from a VPC using the **Gateway VPC endpoint** and **Interface VPC endpoint**. Gateway endpoints do not support PrivateLink but allow for connection to Amazon S3 and DynamoDB without the need for an IGW or NAT device in your VPC. For other AWS services, an interface VPC endpoint can be created to establish a connection to services through AWS PrivateLink.
+10. **AWS VPN**: AWS VPN is a networking service to establish a secure connection between AWS, on-premises networks, and remote client devices.
+     - **AWS Site-Site VPN**
+     - **AWS Client VPN**
 10. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/e13f5b3b-d4aa-4cfe-bf57-2840c242c8cb)
