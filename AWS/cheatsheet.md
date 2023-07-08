@@ -15,3 +15,4 @@
    - You can access AWS services from a VPC using the **Gateway VPC endpoint** and **Interface VPC endpoint**. Gateway endpoints do not support PrivateLink but allow for connection to Amazon S3 and DynamoDB without the need for an IGW or NAT device in your VPC. For other AWS services, an interface VPC endpoint can be created to establish a connection to services through AWS PrivateLink.
 10. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
 
+![image](https://github.com/cskarthik22/Notes/assets/38231831/102e1654-2879-4f15-a41a-4396ad3d4580)
