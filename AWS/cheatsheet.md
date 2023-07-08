@@ -29,10 +29,19 @@
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/63235a62-b18d-4014-a958-901225bf0be4)
 
+---
+**SAML2.0 Federation** : https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_saml.html 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/9fce4b48-0d4c-4757-bbb2-801e660c7339)
 
+- A user in your organization uses a client app to request authentication from your organization's IdP.
+- The IdP authenticates the user against your organization's identity store.
+- The IdP constructs a SAML assertion with information about the user and sends the assertion to the client app.
+- The client app calls the AWS STS AssumeRoleWithSAML API, passing the ARN of the SAML provider, the ARN of the role to assume, and the SAML assertion from IdP.
+- The API response to the client app includes temporary security credentials.
+- The client app uses the temporary security credentials to call Amazon S3 API operations.
+
 ---
-** WEB Identity Federation**
+**WEB Identity Federation**
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/fb5b2a45-04f2-49ae-8904-18e99ab16e3c)
 - A customer starts your app on a mobile device. The app asks the user to sign in.
 - The app uses Login with Amazon resources to accept the user's credentials.
