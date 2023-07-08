@@ -26,3 +26,6 @@
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/e13f5b3b-d4aa-4cfe-bf57-2840c242c8cb)
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/102e1654-2879-4f15-a41a-4396ad3d4580)
+
+![image](https://github.com/cskarthik22/Notes/assets/38231831/63235a62-b18d-4014-a958-901225bf0be4)
+
