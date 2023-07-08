@@ -31,4 +31,12 @@
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/9fce4b48-0d4c-4757-bbb2-801e660c7339)
 
+---
+** WEB Identity Federation**
+![image](https://github.com/cskarthik22/Notes/assets/38231831/fb5b2a45-04f2-49ae-8904-18e99ab16e3c)
+- A customer starts your app on a mobile device. The app asks the user to sign in.
+- The app uses Login with Amazon resources to accept the user's credentials.
+- The app uses the Amazon Cognito API operations GetId and GetCredentialsForIdentity to exchange the Login with Amazon ID token for an Amazon Cognito token. Amazon Cognito, which has been configured to trust your Login with Amazon project, generates a token that it exchanges for temporary session credentials with AWS STS.
+- The app receives temporary security credentials from Amazon Cognito. Your app can also use the Basic (Classic) workflow in Amazon Cognito to retrieve tokens from AWS STS using AssumeRoleWithWebIdentity. For more information, see Identity pools (federated identities) authentication flow in the Amazon Cognito Developer Guide.
+- The temporary security credentials can be used by the app to access any AWS resources required by the app to operate. The role associated with the temporary security credentials and the assigned policies determines what can be accessed.
 
