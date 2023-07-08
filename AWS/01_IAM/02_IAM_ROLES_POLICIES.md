@@ -1,3 +1,4 @@
+'
 ## More Advance Concepts
 
 * IAM Policies lives with
@@ -62,6 +63,7 @@
 ___
 ## AWS Organization
 
+* As a part of AWS organization, SCP's can be deployed and are tied to account
 ---
 ## Service Control Policies (SCP)
 
