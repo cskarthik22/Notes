@@ -49,3 +49,5 @@
 - The app receives temporary security credentials from Amazon Cognito. Your app can also use the Basic (Classic) workflow in Amazon Cognito to retrieve tokens from AWS STS using AssumeRoleWithWebIdentity. For more information, see Identity pools (federated identities) authentication flow in the Amazon Cognito Developer Guide.
 - The temporary security credentials can be used by the app to access any AWS resources required by the app to operate. The role associated with the temporary security credentials and the assigned policies determines what can be accessed.
 
+<img width="1067" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/419331ab-157f-418b-8c3b-3ccb7d89c68f">
+
