@@ -22,20 +22,20 @@
 11. **AWS Fargate**: Serverless Compute Engine provided by AWS - Used to run containers without managing underlying infrastructure
 12. **Traffic Flow - Security**:
     - **Ingress Points**:
-         a) CloudFront
-         b) S3
-         c) API Gateway
-         d) Elastic Loadbalancer
-         e) AWS Service API Endpoints
-         f) VPC Ingress
+         - CloudFront
+         - S3
+         - API Gateway
+         - Elastic Loadbalancer
+         - AWS Service API Endpoints
+         - VPC Ingress
     - **Egress Points**:
-         a) Internet Gateway
-         b) Virtual Private Gateway
-         c) VPC Peering Connection
-         d) Gateway Endpoint
-         e) Interface Endpoint ( Private link )
-         f) NAT Gateway
-         g) DIY
+         - Internet Gateway
+         - Virtual Private Gateway
+         - VPC Peering Connection
+         - Gateway Endpoint
+         - Interface Endpoint ( Private link )
+         - NAT Gateway
+         - DIY
 
 ![image](https://github.com/cskarthik22/Notes/assets/38231831/5112b944-2c56-4f8b-96eb-d3eeb449f4dc)
 
