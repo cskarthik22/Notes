@@ -6,7 +6,7 @@
 
 #### Key points:
 - AZ Scoped Endpoints
-- Region Scoped Endpoints ( big difference compare
+- Region Scoped Endpoints ( it's a big difference compared to RDS )
 - Two Write Endpoints
 - Serverless Option
 - Global DB Option
