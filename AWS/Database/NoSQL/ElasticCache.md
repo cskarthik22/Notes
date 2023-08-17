@@ -2,7 +2,7 @@
 
 #### Keypoints:
 - AZ Scoped
-- Managed In-memory (with Redis)
+- Managed In-memory (with Redis engine)
 - 1 write endpoint
 - Shard data across multiple cluster nodes
 
