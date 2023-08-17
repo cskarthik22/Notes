@@ -14,6 +14,9 @@ AWS Accounts
     b) Authenticates 
     c) Authorize ( Allows/Denies access to AWS resources when IAM policies are attached to users/groups/roles )
 7. IAM Policies are just the set of rules.
+8. IAM supports both permissions and boundaries.
+    - Permissions are just grant access
+    - Permission Boundaries: Max level of permssions that the users can possibily have regardless of the permission policy documents that are associated with that user.
 
 
 **********************************************************************************
