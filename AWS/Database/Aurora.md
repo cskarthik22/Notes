@@ -1,6 +1,6 @@
 # Aurora
 
-#### DB Engines:
+#### Supported DB Engines:
 - MySQL
 - Postgres
 
