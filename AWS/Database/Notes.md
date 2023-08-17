@@ -7,7 +7,7 @@
 - Postgres
 - MariaDB
 
-## Key Points:
+* Key Points:
 - Relational Database
 - AZ Scoped
 - Single Write Endpoint
