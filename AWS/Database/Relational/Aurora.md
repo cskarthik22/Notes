@@ -10,6 +10,7 @@
 - Two Write Endpoints
 - Serverless Option
 - Global DB Option
+- Aurora backtrack only available on MySQL engine
 
 #### Use cases:
 - OLTP Workloads
