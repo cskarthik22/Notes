@@ -9,6 +9,7 @@
       2. Permission Policy
   Note: Identity Policy - Controls what that identity can access.
 * Resource Policy - Controls who can access that resource - it has additional attribute in JSON - called Principle.
+  In resource-based policies in AWS, the "principal" element is used to specify which external identities are allowed to access the associated resource. The principle can have different values depending on the type of resource it is associated with. It can be an AWS account (identified by a 12-digit account ID), an IAM user, a federated user, another IAM role, or even another AWS service. By configuring the principle in the resource policy, you can control and define the specific external identities that have permission to access the resource. This provides an extra mechanism for managing access to AWS resources beyond identity-based policies, which are associated with IAM users and groups.
   Example: Some services allow storing policy with resources
     1. S3 ( Bucket policy )
     2. Amazon Glacier ( Vault policy )
