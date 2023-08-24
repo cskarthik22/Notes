@@ -10,3 +10,7 @@
     - Change Management
     - Node Management ( e.g: OS based resources )
     - Shared Resources ( e.g: Parameters store and access else where in ohter aws services )
+ 
+
+<img width="626" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/0e78d359-f7fc-423f-acdd-6f94b1e875ab">
+
