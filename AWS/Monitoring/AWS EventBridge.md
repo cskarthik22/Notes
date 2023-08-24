@@ -9,7 +9,12 @@
   <img width="980" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/a14fc767-b507-46ba-8770-a7eef65f1f40">
   
 - Event Bus Scheduled Events
-  <img width="700" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/d5fe4820-5498-49bb-93ce-2362ce6b576b">
+
+  <img width="705" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/6050d68a-f72a-45e0-a5cc-f47b2f2fd6f3">
+
+#### Usecase:
+- Copy new AMI and forward to multiple different accounts
+
 
 
 
