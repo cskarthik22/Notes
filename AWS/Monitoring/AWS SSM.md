@@ -9,7 +9,7 @@
 -   - **Operation Management** ( e.g: Help Desk System ): Incident Manager, SSM Explorer, OpsCenter (which allows you to create tickets called OpsItems), CloudWatch & Trusted Advisor Dashboards, Personal Health Dashbaords
     - **Application Management**: ( Application Manager, AppConfig, Parameter Store )
     - **Change Management** : ( Change Manager, Automation, Change Calender, Maintainence Windows)
-    - **Node Management** ( e.g: OS based resources ): Fleet Manager, Compliance, Inventory, Session Manager, Runcommand, State Manager,Patch Manager, Distributor
+    - **Node Management** ( e.g: OS based resources ): Node Management features are designed around individual OS-based resources and include various capabilities for managing and executing commands on those resources, such as Fleet Manager, Compliance, Inventory, Session Manager, State Manager,Patch Manager, Distributor,Hybrid Activations, SSM Run Command, and more.
     - **Shared Resources** ( e.g: Parameters store and access else where in ohter aws services ): SSM Documents
  
 <img width="600" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/b9331f30-64be-4e3c-8a73-c191a1c47d27">
