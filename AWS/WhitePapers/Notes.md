@@ -10,4 +10,4 @@
 
 #### Helpful Links
 - https://tutorialsdojo.com/aws-cheat-sheets/
-- - https://wellarchitectedlabs.com/
+- https://wellarchitectedlabs.com/
