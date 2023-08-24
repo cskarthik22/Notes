@@ -2,7 +2,7 @@
 
 #### Keypoints
 - Serverless ETL ( Extract, Transform, Load)
-- **Note: Datapipeline also used for ETL, but it is not serverless, it uses EMR
+- **Note: Datapipeline also used for ETL, but it is not serverless, it uses EC2 instances to help with the transfer of data, as well as the ability to issue arbitrary AWS CLI commands in case you need to do any extra work in the middle. And so Data Pipeline can be a little bit more flexible in some ways than the Kinesis offerings. And it does not necessarily require an agent on the producer side to be able to push data into the Data Pipeline to begin with. Data Pipeline supports cross-region activities,
 
 ```
 The purpose of creating a Data crawler in AWS Glue is to create a data catalog and schema for the data sources.
