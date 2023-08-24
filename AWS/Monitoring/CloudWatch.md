@@ -9,6 +9,6 @@
 ### Cloudwatch Logs Subscription Filters
 - Only 2 subscription filters allowed per log group
 - Cloudwatch logs can be exported to S3 manually, but this can be automated using Kinesis Firehose subscription filter
-- CloudWatch Logs supports subscription filters, which enable the delivery of logs to other services such as Kinesis Data Streams, Kinesis Data Firehose, and Lambda functions
+- CloudWatch Logs supports subscription filters, which enable the delivery of logs to other services such as Kinesis Data Streams, Kinesis Data Firehose, and Lambda functions. By subscribing to a CloudWatch Log group, you can use these services to gather the logs from CloudWatch Logs and process them further. For example, you can deliver logs to an S3 bucket by using Kinesis Data Firehose as an intermediary.
 <img width="674" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/67fb6a09-cf14-4ff2-bd6c-4c112c80d093">
 
