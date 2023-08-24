@@ -1,0 +1,9 @@
+# AWS Athena
+
+```
+This service allows customers to store their structured or semi-structured data 
+durably and cost effectively in an S3 bucket and create tables from this data. 
+The data can then be queried using SQL through various client side options
+
+```
+
