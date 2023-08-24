@@ -1,6 +1,7 @@
 # AWS Cloud Watch
 
 #### Keypoints
+- The primary function of AWS CloudWatch is to collect and track metrics from various applications and resources deployed in AWS.
 
 <img width="763" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/66ba61e6-4309-4aa3-a730-b81af2283a98">
 
