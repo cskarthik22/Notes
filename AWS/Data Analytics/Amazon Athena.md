@@ -1,4 +1,4 @@
-# AWS Athena
+# Amazon Athena
 
 ```
 This service allows customers to store their structured or semi-structured data 
