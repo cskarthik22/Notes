@@ -7,3 +7,7 @@ The data can then be queried using SQL through various client side options
 
 ```
 
+#### Keypoints
+- It utilizes the data sitting in S3, but can be queried using SQL as if you are working with relational database
+- Athena Table: It holds metadata and specifies data location & structure. It doesn't hold actual data, instead everything is stored in S3
+- Athena Data Catalog: Used for managing metadata
