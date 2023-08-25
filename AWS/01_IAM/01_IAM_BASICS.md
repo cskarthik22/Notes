@@ -1,3 +1,6 @@
+
+<img width="751" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/be54d957-78c3-46ea-9709-4a7dbc08846a">
+
 ```
 AWS Accounts
 
