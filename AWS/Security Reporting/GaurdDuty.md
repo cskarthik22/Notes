@@ -9,6 +9,8 @@
 #### Usecase
 
 - <img width="973" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/fe8ed6d9-b6cd-45fb-9754-b5bf2e131e98">
+- <img width="912" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/7e476b02-b947-4aa5-8097-d34bff63bab1">
+
 - <img width="748" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/3725974d-74b1-471e-a464-70687aede5d4">
 
 
