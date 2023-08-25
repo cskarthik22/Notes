@@ -12,3 +12,5 @@
 #### Helpful Links
 - https://tutorialsdojo.com/aws-cheat-sheets/
 - https://wellarchitectedlabs.com/
+- https://explore.skillbuilder.aws/learn/lp/1044/Solutions%2520Architect%2520-%2520Knowledge%2520Badge%2520Readiness%2520Path
+- 
