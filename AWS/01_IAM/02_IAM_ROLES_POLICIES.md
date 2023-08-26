@@ -19,6 +19,9 @@
 * Boundary Policy
 * Service Linked Roles
 * EC2 Instance Roles
+---
+
+<img width="1032" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/7025bb47-3df3-44c6-9ba4-9bc16345fac3">
 
 ---
 * Policies provide authorization
