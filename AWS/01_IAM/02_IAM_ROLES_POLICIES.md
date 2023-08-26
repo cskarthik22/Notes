@@ -24,6 +24,10 @@
 <img width="1032" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/7025bb47-3df3-44c6-9ba4-9bc16345fac3">
 
 ---
+
+<img width="988" alt="image" src="https://github.com/cskarthik22/Notes/assets/38231831/477b0352-f086-4cdc-aaf4-4dfaff03af0b">
+
+---
 * Policies provide authorization
   1. Specification - Defining policies
   2. Enforcement - Evaluating policies
