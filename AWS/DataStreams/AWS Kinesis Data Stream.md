@@ -11,3 +11,10 @@
 - The data in Kinesis Data Streams is replicated across three Availability Zones (AZs), providing durability
 similar to other services like Amazon S3.
 
+#### Usecases
+- Accelerated log and data feed intake and processing
+- Real-time metrics and reporting
+- Real-time data analytics
+- Complex stream processing
+- Real-time aggregation of data followed by loading to data-warehouse or map-reduce cluster
+- Multiple Kinesis Data Streams applications can consume data from a stream, so that multiple actions, like archiving and processing, can take place concurrently and independently. For example, two applications can read data from the same stream. The first application calculates running aggregates and updates an Amazon DynamoDB table, and the second application compresses and archives data to a data store like Amazon Simple Storage Service (Amazon S3). The DynamoDB table with running aggregates is then read by a dashboard for up-to-the-minute reports.
