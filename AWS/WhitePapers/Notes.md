@@ -8,7 +8,13 @@
 
 - ![image](https://github.com/cskarthik22/Notes/assets/38231831/d0e394ab-cc4b-4aac-bd8b-318ab763e132)
 
+#### Blogs
+- **Disaster Recovery Series**: https://aws.amazon.com/blogs/architecture/tag/disaster-recovery-series/
+- **Resiliency Architecure Patterns**: https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/
 
+#### FAQs
+- https://aws.amazon.com/faqs/?trk=f5d07b47-fa85-40d9-a7f4-0113439890a3&sc_channel=el
+- 
 #### Helpful Links
 - https://tutorialsdojo.com/aws-cheat-sheets/
 - https://wellarchitectedlabs.com/
