@@ -11,6 +11,8 @@
 #### Blogs
 - **Disaster Recovery Series**: https://aws.amazon.com/blogs/architecture/tag/disaster-recovery-series/
 - **Resiliency Architecure Patterns**: https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/
+- **Event-Driven Arthcitures**: https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/eventbridge
+- 
 
 #### FAQs
 - https://aws.amazon.com/faqs/?trk=f5d07b47-fa85-40d9-a7f4-0113439890a3&sc_channel=el
