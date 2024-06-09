@@ -1,6 +1,6 @@
 
 
-> #### Docker Networking
+> #### Docker Networking (https://github.com/moby/libnetwork/blob/master/docs/design.md)
   - USECASE1: Containers running on single hosts talk to each other ( BRIDGE NETWORK )
   - USECASE2: Containers running on multiple hosts talk to each other ( OVERLAYS )
  
