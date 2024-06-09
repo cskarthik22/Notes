@@ -10,7 +10,8 @@
 
 
  
-- Container Networking Model --> libnetwork 
+- Container Networking Model --> libnetwork
+- Mapping ports like this works, but it’s clunky and doesn’t scale. For example, only a single container can bind to any port on the host. This means no other containers on that host will be able to bind to port 5000. This is one of the reason’s that single-host bridge networks are only useful for local development and very small applications.
 
 By default docker containers use bridge driver
 - Each container has its own network stack
