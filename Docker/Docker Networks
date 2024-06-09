@@ -1,3 +1,8 @@
+
+
+> #### Docker Networking
+- Container Networking Model --> libnetwork 
+
 By default docker containers use bridge driver
 - Each container has its own network stack
 brctl show
