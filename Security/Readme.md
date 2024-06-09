@@ -8,6 +8,16 @@
   - RSA (Used for Encryption, KeyExchange, Signature)
   - Diffe Helmen ( Used only for KeyExchange )
   - Digital Signatures ( Used only for signing )
+ 
+> #### OpenSSL Commands
+- Read contents of the certificate
+  - openssl x509 -in google.cert -noout -text
+- Read contents of the private key
+  - openssl rsa -in google.key -noout -text
+- Read contents of the certificate using domainname
+  - openssl s_client google.com:443
+- Fetch SAN List & supress unwanted lines
+  - openssl s_client -connect google.com:443 -servername google.com < /dev/null 2>/dev/null | openssl x509 -noout -ext subjectAltName | grep -vE "depth|verify return|X509"
     
 > #### Secure WEB API
 - :point_right: [ API ](https://www.mulesoft.com/resources/api/what-is-an-api)
