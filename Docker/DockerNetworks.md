@@ -1,6 +1,9 @@
 
 
 > #### Docker Networking
+  - USECASE1: Container1 app talking to Container2 app
+  - USECASE2: conainter1 app talking to external service served by physical or virtual machine
+ 
 - Container Networking Model --> libnetwork 
 
 By default docker containers use bridge driver
