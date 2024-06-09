@@ -6,7 +6,7 @@
 > #### USECASE1: Containers running on single hosts talk to each other ( BRIDGE NETWORK )
   - #### Sandboxes are placed inside of containers to provide network connectivity
   - ![image](https://github.com/cskarthik22/Notes/assets/38231831/7daf6cb0-9bb3-4176-918d-313264d962d2)
-
+> #### SDN ( https://www.sdxcentral.com/networking/sdn/definitions/what-the-definition-of-software-defined-networking-sdn/ )
 
 
  
