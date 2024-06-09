@@ -1,8 +1,8 @@
 
 
 > #### Docker Networking
-  - USECASE1: Container1 app talking to Container2 app
-  - USECASE2: conainter1 app talking to external service served by physical or virtual machine
+  - USECASE1: Containers running on single hosts talk to each other ( BRIDGE NETWORK )
+  - USECASE2: Containers running on multiple hosts talk to each other ( OVERLAYS )
  
 - Container Networking Model --> libnetwork 
 
