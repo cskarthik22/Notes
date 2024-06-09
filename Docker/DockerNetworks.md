@@ -4,6 +4,9 @@
   - USECASE1: Containers running on single hosts talk to each other ( BRIDGE NETWORK )
   - USECASE2: Containers running on multiple hosts talk to each other ( OVERLAYS )
   - ![image](https://github.com/cskarthik22/Notes/assets/38231831/77664d89-09b0-40a2-aab3-6b6a5cfbfc97)
+> #### Sandboxes are placed inside of containers to provide network connectivity
+  - ![image](https://github.com/cskarthik22/Notes/assets/38231831/dd7161df-b05d-4e8b-a944-064d3a19aa54)
+
 
  
 - Container Networking Model --> libnetwork 
