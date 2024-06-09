@@ -1,3 +1,8 @@
+## K8s
+
+![image](https://github.com/cskarthik22/Notes/assets/38231831/6ceb0323-de13-4017-a584-b42dcfb56374)
+
+
 ## K8s Offical docs
 - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 - https://cheatsheet.dennyzhang.com
